@@ -1,0 +1,7 @@
+name: NoSpace
+version: 1.0
+api: ["1.0.0"]
+main: com.creeperface.nukkitx.nospace.NoSpace
+description: "Doesn't allow space characters in player names"
+author: CreeperFace
+depend: Kotlinlib
